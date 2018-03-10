@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "5549220166",
+    "firebase_url": "https://actionbar-b3c3b.firebaseio.com",
+    "project_id": "actionbar-b3c3b",
+    "storage_bucket": "actionbar-b3c3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5549220166:android:e34f5609d904c43f",
+        "android_client_info": {
+          "package_name": "com.example.keshubro.actionbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5549220166-vshghi96ibm94qbqm2mhalduqrs4kf4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keshubro.actionbar",
+            "certificate_hash": "8bb48aa9238c6e54bd288379f41eb4253da5e50b"
+          }
+        },
+        {
+          "client_id": "5549220166-cfs1stccvkn67nt7r9i1a9iarnlt61f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD52RBFxBaehsDnl7b3-H2VVwGuaS67keI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5549220166-cfs1stccvkn67nt7r9i1a9iarnlt61f6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
